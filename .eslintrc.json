@@ -1,0 +1,7 @@
+{
+  "extends": "@dcl/eslint-config/sdk",
+  "parserOptions": {
+    "project": ["tsconfig.json"]
+  }
+}
+//git commit
